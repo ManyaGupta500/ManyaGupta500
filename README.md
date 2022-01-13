@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Manya Gupta
+- 🌱 I’m currently a full-time student in Centennial College
+- 💞️ I’m currently learning Java, React JS and a never-ending list
+- 👀 I’m looking to collaborate on big projects and learn new things
+- 📫 How to reach me guptamanya500@gmail.com
+- 📄 Know about my experiences 
